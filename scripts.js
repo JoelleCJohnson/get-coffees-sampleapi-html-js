@@ -1,6 +1,6 @@
 const allCoffees = window.document.getElementById('all-coffees') //study DOM
 
-allCoffees.innerHTML = '<h2 style="color: red;" >hey teacher</h2>' //injects html
+// allCoffees.innerHTML = '<h2 style="color: red;" >hey teacher</h2>' //injects html
 
 //fetch info from sample APIs
 //window.fetch()

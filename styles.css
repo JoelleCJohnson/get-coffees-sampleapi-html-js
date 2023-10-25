@@ -1,0 +1,22 @@
+*,
+*::after,
+*::before {
+    margin:0;
+    padding:0;
+    box-sizing: inherit;
+}
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background: url("./coffee-beans-bk-2.webp");
+    background-size: contain;
+}
+
+#all-coffees {
+    /* text-align: center; */
+    /* margin: 10% 30%; */
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    
+}
